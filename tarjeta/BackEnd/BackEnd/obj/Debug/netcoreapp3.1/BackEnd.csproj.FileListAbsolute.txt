@@ -69,3 +69,13 @@ C:\Users\bruno\OneDrive\Desktop\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\
 C:\Users\bruno\OneDrive\Desktop\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
 C:\Users\bruno\OneDrive\Desktop\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
 C:\Users\bruno\OneDrive\Desktop\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.RazorAssemblyInfo.cache
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.RazorAssemblyInfo.cs
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.dll
+C:\Users\bruno\OneDrive\Desktop\AngularProyect\tarjeta\BackEnd\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.pdb
